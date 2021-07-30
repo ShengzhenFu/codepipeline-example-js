@@ -1,6 +1,6 @@
 {
-  "name": "aws-codepipeline-demo",
-  "author": "Lucas Chen",
+  "name": "codepipeline-example-js",
+  "author": "Shengzhen",
   "license": "MIT",
   "private": true,
   "devDependencies": {
